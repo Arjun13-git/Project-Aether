@@ -64,7 +64,7 @@ the Streamlit dashboard:
 
 Bash
 
-streamlit run aether_final.py 📖 User Manual (Standard Operating
+streamlit run aether_main.py 📖 User Manual (Standard Operating
 Procedure) Phase 1: Ingestion Launch the dashboard. You will be greeted
 by the Genesis Landing Page.
 
@@ -89,7 +89,7 @@ grid coordinates and threat assessments.
 
 📂 Repository Structure Plaintext
 
-Project-Aether/ ├── aether_final.py \# CORE KERNEL (Run this) ├──
+Project-Aether/ ├── aether_main.py \# CORE KERNEL (Run this) ├──
 requirements.txt \# Dependency list ├── README.md \# Documentation └──
 assets/ \# Demo images (Satellite/Drone samples) ⚠️ Disclaimer This tool
 is a Simulation designed for educational and portfolio purposes. It

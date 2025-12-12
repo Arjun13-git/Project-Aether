@@ -1,0 +1,19 @@
+# Ignore System Files
+__pycache__/
+*.pyc
+
+# Ignore Virtual Env (Crucial!)
+venv/
+.env
+
+# Ignore Large AI Models (The code downloads them automatically)
+*.pt
+*.onnx
+
+# Ignore Local Test Images (Optional: Keep one for demo, ignore the rest)
+# *.jpg
+# *.png
+
+# Ignore Mission Logs
+mission_logs.csv
+*.txt
